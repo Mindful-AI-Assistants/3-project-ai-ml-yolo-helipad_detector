@@ -7,9 +7,9 @@
 
 
 <!-- ========= START HEADRE ========= -->
-# <p align="center">🧠 AI/ML Project 2 · Computer Vision · Helipad Detector</p>
+# <p align="center"> 🚁 [AI/ML]() · [Project 2]() · [Computer Vision]() · [Helipad Detector]() </p>
 
-### <p align="center">Automated Helipad Detection Using YOLO and Satellite Imagery of São Paulo, Brazil</p>
+### <p align="center"> Mission: Helipad Detection in São Paulo Satellite Imagery using YOLO · Responsible AI · Data Governance · LGPD 🛰️</p>
 
 <br>
 
@@ -24,6 +24,8 @@
 <a href="https://github.com/topics/yolo">YOLO (v8 / v11)</a>
 &nbsp;&nbsp;✦&nbsp;&nbsp;
 <a href="https://github.com/topics/geospatial">Geospatial Intelligence</a>
+&nbsp;&nbsp;✦&nbsp;&nbsp;
+<a href="https://github.com/topics/governance">AI Governance</a>
 
 </div>
 
