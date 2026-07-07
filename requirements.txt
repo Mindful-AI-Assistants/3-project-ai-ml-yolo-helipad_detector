@@ -40,3 +40,10 @@ webdriver-manager>=3.8.0
 requests>=2.23.0
 psutil
 py-cpuinfo
+
+########################
+# Dashboard: gráficos e mapa interativo
+########################
+plotly>=5.18.0
+folium>=0.15.0
+streamlit-folium>=0.20.0
