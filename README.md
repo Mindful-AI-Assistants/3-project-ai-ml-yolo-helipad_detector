@@ -394,7 +394,9 @@ The solution can be viewed as an architecture with **seven main blocks**:
 
 <br><br>
 
-## [MLOps Pipeline Architecture]()
+## [AI/ML Ops Pipeline]()
+
+<br>
 
 ```mermaid
 %%{
